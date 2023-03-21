@@ -35,6 +35,7 @@ def fToC(f=0):
         ans=ans+1;
     print(f," ",ans);
 fToC(5);
+print('hello-world')
 
 # from os import *
 # from sys import *
